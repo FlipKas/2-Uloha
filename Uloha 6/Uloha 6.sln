@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uloha 6", "Uloha 6\Uloha 6.csproj", "{74F8747B-AFE9-4463-9A2E-9F32891AA51D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74F8747B-AFE9-4463-9A2E-9F32891AA51D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F8747B-AFE9-4463-9A2E-9F32891AA51D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F8747B-AFE9-4463-9A2E-9F32891AA51D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F8747B-AFE9-4463-9A2E-9F32891AA51D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D60590B-AD8E-4D8F-8E3E-E53682D7F458}
+	EndGlobalSection
+EndGlobal
